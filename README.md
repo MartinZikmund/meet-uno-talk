@@ -10,6 +10,10 @@ TBD
 
 Official Uno Platform website - https://platform.uno/
 
+### Tutorials ###
+- Getting Started - https://github.com/nventive/Uno/blob/master/doc/articles/getting-started-tutorial-1.md
+- Contributing to Uno Platform - https://blog.mzikmund.com/2019/03/contributing-to-the-uno-platform-part-1/
+
 ### Sample apps ###
 
 - uado - Universal Azure DevOps Organizer - https://github.com/nventive/Uado

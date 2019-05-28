@@ -2,7 +2,7 @@
 
 ## Presentation
 
-TBD
+
 
 ## Links
 
@@ -16,12 +16,14 @@ Official Uno Platform website - https://platform.uno/
 
 ### Sample apps ###
 
+- Uno Gallery Android - https://play.google.com/store/apps/details?id=com.nventive.uno.ui.demo
+- Uno Gallery iOS - https://itunes.apple.com/app/uno-gallery/id1380984680
 - uado - Universal Azure DevOps Organizer - https://github.com/nventive/Uado
 
 ### WASM samples ###
 
 - Uno Platform Playground - https://playground.platform.uno/
-- Uado - Universal Azure DevOps Organizer - https://uado.platform.uno/
+- uado - Universal Azure DevOps Organizer - https://uado.platform.uno/
 - Windows Community Toolkit - http://windowstoolkit-wasm.platform.uno/
 - Uno Lottie - https://lottie.platform.uno/
 

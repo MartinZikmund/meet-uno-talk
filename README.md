@@ -2,7 +2,7 @@
 
 ## Presentation
 
-TBD
+
 
 ## Links
 
@@ -17,6 +17,8 @@ Official Uno Platform website - https://platform.uno/
 ### Sample apps ###
 
 - uado - Universal Azure DevOps Organizer - https://github.com/nventive/Uado
+- Uno Gallery Android - https://play.google.com/store/apps/details?id=com.nventive.uno.ui.demo
+- Uno Gallery iOS - https://itunes.apple.com/app/uno-gallery/id1380984680
 
 ### WASM samples ###
 

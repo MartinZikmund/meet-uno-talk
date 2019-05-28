@@ -5,6 +5,11 @@
 - PPTX - https://github.com/MartinZikmund/meet-uno-talk/blob/master/Slides/UnoPlatform.pptx
 - PDF - https://github.com/MartinZikmund/meet-uno-talk/blob/master/Slides/UnoPlatform.pdf
 
+## Demos
+- Phoneword UI example in Uno Platform
+- Basic Hello World app
+- Advanced Hello World app
+
 ## Links
 
 ### Basics

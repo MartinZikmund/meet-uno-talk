@@ -13,7 +13,7 @@
                 <VisualState x:Name="NormalView" />
                 <VisualState x:Name="WideView">
                     <VisualState.StateTriggers>
-                        <AdaptiveTrigger MinWindowWidth="600" />
+                        <AdaptiveTrigger MinWindowWidth="800" />
                     </VisualState.StateTriggers>
                     <VisualState.Setters>
                         <Setter Target="ItemsGridView.Visibility" Value="Visible" />

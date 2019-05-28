@@ -2,7 +2,8 @@
 
 ## Presentation
 
-
+PPTX - https://github.com/MartinZikmund/meet-uno-talk/blob/master/Slides/UnoPlatform.pptx
+PDF - https://github.com/MartinZikmund/meet-uno-talk/blob/master/Slides/UnoPlatform.pdf
 
 ## Links
 
